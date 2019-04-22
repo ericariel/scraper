@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 本程序简单实现从斗图啦网站爬取并下载最新表情包
-
+需要在统一目录下新建images文件夹
 Created on Mon Apr 22 20:51:58 2019
 
 @author: Ericariel
